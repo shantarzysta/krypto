@@ -1,7 +1,7 @@
 # Projekt z kryptografii
 
 ## Język i środowisko
-- Java 11
+- Java 8
 - IntelliJ IDEA
 
 ## Cel
